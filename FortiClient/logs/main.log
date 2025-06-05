@@ -1,0 +1,483 @@
+[2025-05-05 14:35:55.188] [info]  Failed to add libcertd.so: Error: Command failed: /usr/bin/modutil -add "FortiClient ZTNA" -dbdir sql:/home/gimz/.pki/nssdb -libfile /opt/forticlient/libcertd.so -force
+ERROR: Failed to add module "FortiClient ZTNA". Probable cause : "/opt/forticlient/libcertd.so: cannot open shared object file: No such file or directory".
+
+[2025-05-05 14:35:55.527] [info]  Server init() port number is 
+[2025-05-05 14:35:55.528] [info]  Fail to retrieve port number from file.
+[2025-05-05 14:35:56.531] [info]  Server init() port number is 41235
+[2025-05-05 14:35:56.534] [info]  Main process - Websocket open ws://127.0.0.1:41235/websocket
+[2025-05-05 14:35:56.549] [info]  WindowManager handlePossibleProtocolLauncherArgs argv=["/opt/forticlient/gui/FortiClient"]
+[2025-05-05 14:35:56.551] [info]  WindowManager handleCreateMainWindow
+[2025-05-05 14:35:56.591] [info]  MAIN MainWindow - createWindow Platform detected: fedora
+[2025-05-05 14:35:56.695] [info]  web-contents-created contents.id=1
+[2025-05-05 14:35:56.703] [info]  Saml - init
+[2025-05-05 14:35:56.704] [info]  Saml - listenSamlLoginRequest
+[2025-05-05 14:35:56.706] [info]  Server init() port number is 41235
+[2025-05-05 14:35:57.420] [info]  Renderer process - Websocket open ws://127.0.0.1:41235/websocket
+[2025-05-05 14:35:57.430] [info]  compliance configDir=/home/gimz/.config/FortiClient/config
+[2025-05-05 14:35:57.433] [info]  MAIN did-finish-load
+[2025-05-05 14:35:57.435] [info]  MAIN ready-to-show
+[2025-05-05 14:35:58.911] [info]  IPC_RENDERER_REQUEST.LOADED
+[2025-05-05 14:35:58.912] [info]  WindowManager handleWindowLoaded
+[2025-05-05 14:35:59.413] [info]  WindowManager handlePossibleProtocolLauncherArgs argv=["/opt/forticlient/gui/FortiClient"]
+[2025-05-05 14:35:59.413] [info]  WindowManager handleCreateMainWindow
+[2025-05-05 14:39:40.131] [debug] Receive websocket type=FCT_VPN_CONNECTING
+[2025-05-05 14:39:40.133] [info]  VpnHandler UNHANDLED {"isTrusted":true}
+[2025-05-05 14:39:40.414] [debug] Receive websocket type=FCT_VPN_INVALID_CERTIFICATE
+[2025-05-05 14:39:40.416] [info]  VpnHandler UNHANDLED {"isTrusted":true}
+[2025-05-05 14:39:43.478] [debug] Receive websocket type=FCT_VPN_CONFIRMATION
+[2025-05-05 14:39:45.250] [debug] Receive websocket type=FCT_VPN_DISCONNECTED
+[2025-05-05 14:40:56.001] [debug] Receive websocket type=FCT_VPN_CONNECTING
+[2025-05-05 14:40:56.001] [info]  VpnHandler UNHANDLED {"isTrusted":true}
+[2025-05-05 14:40:56.302] [debug] Receive websocket type=FCT_VPN_INVALID_CERTIFICATE
+[2025-05-05 14:40:56.303] [info]  VpnHandler UNHANDLED {"isTrusted":true}
+[2025-05-05 14:40:59.473] [debug] Receive websocket type=FCT_VPN_CONFIRMATION
+[2025-05-05 14:41:04.723] [debug] Receive websocket type=FCT_VPN_CONNECTED
+[2025-05-05 14:41:04.870] [info]  WindowManager WindowManager - handleWindowClosed
+[2025-05-05 14:41:04.871] [info]  WindowManager WindowManager - all windows are destroyed. quit the app.
+[2025-05-05 14:41:13.498] [info]  Failed to add libcertd.so: Error: Command failed: /usr/bin/modutil -add "FortiClient ZTNA" -dbdir sql:/home/gimz/.pki/nssdb -libfile /opt/forticlient/libcertd.so -force
+ERROR: Failed to add module "FortiClient ZTNA". Probable cause : "/opt/forticlient/libcertd.so: cannot open shared object file: No such file or directory".
+
+[2025-05-05 14:41:13.709] [info]  Server init() port number is 
+[2025-05-05 14:41:13.709] [info]  Fail to retrieve port number from file.
+[2025-05-05 14:41:14.713] [info]  Server init() port number is 41235
+[2025-05-05 14:41:14.715] [info]  Main process - Websocket open ws://127.0.0.1:41235/websocket
+[2025-05-05 14:41:14.734] [info]  WindowManager handlePossibleProtocolLauncherArgs argv=["/opt/forticlient/gui/FortiClient"]
+[2025-05-05 14:41:14.736] [info]  WindowManager handleCreateMainWindow
+[2025-05-05 14:41:14.767] [info]  MAIN MainWindow - createWindow Platform detected: fedora
+[2025-05-05 14:41:14.828] [info]  web-contents-created contents.id=1
+[2025-05-05 14:41:14.838] [info]  Saml - init
+[2025-05-05 14:41:14.840] [info]  Saml - listenSamlLoginRequest
+[2025-05-05 14:41:14.841] [info]  Server init() port number is 41235
+[2025-05-05 14:41:15.326] [info]  Renderer process - Websocket open ws://127.0.0.1:41235/websocket
+[2025-05-05 14:41:15.329] [info]  compliance configDir=/home/gimz/.config/FortiClient/config
+[2025-05-05 14:41:15.333] [info]  MAIN did-finish-load
+[2025-05-05 14:41:15.334] [info]  MAIN ready-to-show
+[2025-05-05 14:41:16.831] [info]  IPC_RENDERER_REQUEST.LOADED
+[2025-05-05 14:41:16.831] [info]  WindowManager handleWindowLoaded
+[2025-05-05 14:41:17.332] [info]  WindowManager handlePossibleProtocolLauncherArgs argv=["/opt/forticlient/gui/FortiClient"]
+[2025-05-05 14:41:17.332] [info]  WindowManager handleCreateMainWindow
+[2025-05-05 14:45:43.585] [info]  WindowManager WindowManager - handleWindowClosed
+[2025-05-05 14:45:43.587] [info]  WindowManager WindowManager - all windows are destroyed. quit the app.
+[2025-05-05 15:08:14.337] [info]  Failed to add libcertd.so: Error: Command failed: /usr/bin/modutil -add "FortiClient ZTNA" -dbdir sql:/home/gimz/.pki/nssdb -libfile /opt/forticlient/libcertd.so -force
+ERROR: Failed to add module "FortiClient ZTNA". Probable cause : "/opt/forticlient/libcertd.so: cannot open shared object file: No such file or directory".
+
+[2025-05-05 15:08:14.543] [info]  Server init() port number is 
+[2025-05-05 15:08:14.545] [info]  Fail to retrieve port number from file.
+[2025-05-05 15:08:15.547] [info]  Server init() port number is 41235
+[2025-05-05 15:08:15.550] [info]  Main process - Websocket open ws://127.0.0.1:41235/websocket
+[2025-05-05 15:08:15.565] [info]  WindowManager handlePossibleProtocolLauncherArgs argv=["/opt/forticlient/gui/FortiClient"]
+[2025-05-05 15:08:15.567] [info]  WindowManager handleCreateMainWindow
+[2025-05-05 15:08:15.584] [info]  MAIN MainWindow - createWindow Platform detected: fedora
+[2025-05-05 15:08:15.639] [info]  web-contents-created contents.id=1
+[2025-05-05 15:08:15.646] [info]  Saml - init
+[2025-05-05 15:08:15.647] [info]  Saml - listenSamlLoginRequest
+[2025-05-05 15:08:15.648] [info]  Server init() port number is 41235
+[2025-05-05 15:08:16.159] [info]  Renderer process - Websocket open ws://127.0.0.1:41235/websocket
+[2025-05-05 15:08:16.162] [info]  compliance configDir=/home/gimz/.config/FortiClient/config
+[2025-05-05 15:08:16.168] [info]  MAIN did-finish-load
+[2025-05-05 15:08:16.169] [info]  MAIN ready-to-show
+[2025-05-05 15:08:17.519] [info]  IPC_RENDERER_REQUEST.LOADED
+[2025-05-05 15:08:17.519] [info]  WindowManager handleWindowLoaded
+[2025-05-05 15:08:18.020] [info]  WindowManager handlePossibleProtocolLauncherArgs argv=["/opt/forticlient/gui/FortiClient"]
+[2025-05-05 15:08:18.021] [info]  WindowManager handleCreateMainWindow
+[2025-05-05 15:08:21.457] [debug] Receive websocket type=FCT_VPN_DISCONNECTED
+[2025-05-05 15:08:23.732] [info]  WindowManager WindowManager - handleWindowClosed
+[2025-05-05 15:08:23.733] [info]  WindowManager WindowManager - all windows are destroyed. quit the app.
+[2025-05-05 15:10:32.955] [info]  Failed to add libcertd.so: Error: Command failed: /usr/bin/modutil -add "FortiClient ZTNA" -dbdir sql:/home/gimz/.pki/nssdb -libfile /opt/forticlient/libcertd.so -force
+ERROR: Failed to add module "FortiClient ZTNA". Probable cause : "/opt/forticlient/libcertd.so: cannot open shared object file: No such file or directory".
+
+[2025-05-05 15:10:33.196] [info]  Server init() port number is 
+[2025-05-05 15:10:33.197] [info]  Fail to retrieve port number from file.
+[2025-05-05 15:10:34.200] [info]  Server init() port number is 41235
+[2025-05-05 15:10:34.203] [info]  Main process - Websocket open ws://127.0.0.1:41235/websocket
+[2025-05-05 15:10:34.218] [info]  WindowManager handlePossibleProtocolLauncherArgs argv=["/opt/forticlient/gui/FortiClient"]
+[2025-05-05 15:10:34.220] [info]  WindowManager handleCreateMainWindow
+[2025-05-05 15:10:34.235] [info]  MAIN MainWindow - createWindow Platform detected: fedora
+[2025-05-05 15:10:34.259] [info]  web-contents-created contents.id=1
+[2025-05-05 15:10:34.268] [info]  Saml - init
+[2025-05-05 15:10:34.269] [info]  Saml - listenSamlLoginRequest
+[2025-05-05 15:10:34.270] [info]  Server init() port number is 41235
+[2025-05-05 15:10:34.748] [info]  Renderer process - Websocket open ws://127.0.0.1:41235/websocket
+[2025-05-05 15:10:34.750] [info]  compliance configDir=/home/gimz/.config/FortiClient/config
+[2025-05-05 15:10:34.756] [info]  MAIN did-finish-load
+[2025-05-05 15:10:34.757] [info]  MAIN ready-to-show
+[2025-05-05 15:10:36.208] [info]  IPC_RENDERER_REQUEST.LOADED
+[2025-05-05 15:10:36.208] [info]  WindowManager handleWindowLoaded
+[2025-05-05 15:10:36.710] [info]  WindowManager handlePossibleProtocolLauncherArgs argv=["/opt/forticlient/gui/FortiClient"]
+[2025-05-05 15:10:36.711] [info]  WindowManager handleCreateMainWindow
+[2025-05-05 15:10:43.898] [info]  WindowManager WindowManager - handleWindowClosed
+[2025-05-05 15:10:43.899] [info]  WindowManager WindowManager - all windows are destroyed. quit the app.
+[2025-05-06 10:15:54.087] [info]  Failed to add libcertd.so: Error: Command failed: /usr/bin/modutil -add "FortiClient ZTNA" -dbdir sql:/home/gimz/.pki/nssdb -libfile /opt/forticlient/libcertd.so -force
+ERROR: Failed to add module "FortiClient ZTNA". Probable cause : "/opt/forticlient/libcertd.so: cannot open shared object file: No such file or directory".
+
+[2025-05-06 10:15:54.310] [info]  Server init() port number is 
+[2025-05-06 10:15:54.312] [info]  Fail to retrieve port number from file.
+[2025-05-06 10:15:55.315] [info]  Server init() port number is 42789
+[2025-05-06 10:15:55.315] [info]  Main process - Websocket open ws://127.0.0.1:42789/websocket
+[2025-05-06 10:15:55.319] [info]  WindowManager handlePossibleProtocolLauncherArgs argv=["/opt/forticlient/gui/FortiClient"]
+[2025-05-06 10:15:55.320] [info]  WindowManager handleCreateMainWindow
+[2025-05-06 10:15:55.331] [info]  MAIN MainWindow - createWindow Platform detected: fedora
+[2025-05-06 10:15:55.383] [info]  web-contents-created contents.id=1
+[2025-05-06 10:15:55.391] [info]  Saml - init
+[2025-05-06 10:15:55.392] [info]  Saml - listenSamlLoginRequest
+[2025-05-06 10:15:55.393] [info]  Server init() port number is 42789
+[2025-05-06 10:15:55.888] [info]  Renderer process - Websocket open ws://127.0.0.1:42789/websocket
+[2025-05-06 10:15:55.890] [info]  compliance configDir=/home/gimz/.config/FortiClient/config
+[2025-05-06 10:15:55.896] [info]  MAIN did-finish-load
+[2025-05-06 10:15:55.899] [info]  MAIN ready-to-show
+[2025-05-06 10:15:57.623] [info]  IPC_RENDERER_REQUEST.LOADED
+[2025-05-06 10:15:57.626] [info]  WindowManager handleWindowLoaded
+[2025-05-06 10:15:58.129] [info]  WindowManager handlePossibleProtocolLauncherArgs argv=["/opt/forticlient/gui/FortiClient"]
+[2025-05-06 10:15:58.130] [info]  WindowManager handleCreateMainWindow
+[2025-05-06 10:16:40.829] [debug] Receive websocket type=FCT_VPN_CONNECTING
+[2025-05-06 10:16:40.829] [info]  VpnHandler UNHANDLED {"isTrusted":true}
+[2025-05-06 10:16:41.323] [debug] Receive websocket type=FCT_VPN_INVALID_CERTIFICATE
+[2025-05-06 10:16:41.323] [info]  VpnHandler UNHANDLED {"isTrusted":true}
+[2025-05-06 10:16:46.388] [debug] Receive websocket type=FCT_VPN_CONFIRMATION
+[2025-05-06 10:16:48.245] [debug] Receive websocket type=FCT_VPN_DISCONNECTED
+[2025-05-06 10:16:53.471] [debug] Receive websocket type=FCT_VPN_CONNECTING
+[2025-05-06 10:16:53.471] [info]  VpnHandler UNHANDLED {"isTrusted":true}
+[2025-05-06 10:16:53.797] [debug] Receive websocket type=FCT_VPN_INVALID_CERTIFICATE
+[2025-05-06 10:16:53.798] [info]  VpnHandler UNHANDLED {"isTrusted":true}
+[2025-05-06 10:17:06.085] [debug] Receive websocket type=FCT_VPN_CANCEL
+[2025-05-06 10:17:06.294] [debug] Receive websocket type=FCT_VPN_DISCONNECTED
+[2025-05-06 10:17:08.964] [debug] Receive websocket type=FCT_VPN_CONNECTING
+[2025-05-06 10:17:08.964] [info]  VpnHandler UNHANDLED {"isTrusted":true}
+[2025-05-06 10:17:09.331] [debug] Receive websocket type=FCT_VPN_INVALID_CERTIFICATE
+[2025-05-06 10:17:09.331] [info]  VpnHandler UNHANDLED {"isTrusted":true}
+[2025-05-06 10:17:10.857] [debug] Receive websocket type=FCT_VPN_CONFIRMATION
+[2025-05-06 10:17:12.568] [debug] Receive websocket type=FCT_VPN_DISCONNECTED
+[2025-05-06 10:17:21.443] [debug] Receive websocket type=FCT_VPN_CONNECTING
+[2025-05-06 10:17:21.443] [info]  VpnHandler UNHANDLED {"isTrusted":true}
+[2025-05-06 10:17:21.899] [debug] Receive websocket type=FCT_VPN_INVALID_CERTIFICATE
+[2025-05-06 10:17:21.899] [info]  VpnHandler UNHANDLED {"isTrusted":true}
+[2025-05-06 10:17:30.921] [debug] Receive websocket type=FCT_VPN_CONFIRMATION
+[2025-05-06 10:17:32.639] [debug] Receive websocket type=FCT_VPN_DISCONNECTED
+[2025-05-06 10:18:37.484] [debug] Receive websocket type=FCT_VPN_CONNECTING
+[2025-05-06 10:18:37.485] [info]  VpnHandler UNHANDLED {"isTrusted":true}
+[2025-05-06 10:18:37.810] [debug] Receive websocket type=FCT_VPN_INVALID_CERTIFICATE
+[2025-05-06 10:18:37.810] [info]  VpnHandler UNHANDLED {"isTrusted":true}
+[2025-05-06 10:19:04.036] [debug] Receive websocket type=FCT_VPN_CONFIRMATION
+[2025-05-06 10:19:09.458] [debug] Receive websocket type=FCT_VPN_CONNECTED
+[2025-05-06 10:19:09.930] [info]  WindowManager WindowManager - handleWindowClosed
+[2025-05-06 10:19:09.930] [info]  WindowManager WindowManager - all windows are destroyed. quit the app.
+[2025-05-06 10:19:54.612] [info]  Failed to add libcertd.so: Error: Command failed: /usr/bin/modutil -add "FortiClient ZTNA" -dbdir sql:/home/gimz/.pki/nssdb -libfile /opt/forticlient/libcertd.so -force
+ERROR: Failed to add module "FortiClient ZTNA". Probable cause : "/opt/forticlient/libcertd.so: cannot open shared object file: No such file or directory".
+
+[2025-05-06 10:19:55.006] [info]  Server init() port number is 
+[2025-05-06 10:19:55.009] [info]  Fail to retrieve port number from file.
+[2025-05-06 10:19:56.013] [info]  Server init() port number is 42789
+[2025-05-06 10:19:56.013] [info]  Main process - Websocket open ws://127.0.0.1:42789/websocket
+[2025-05-06 10:19:56.017] [info]  WindowManager handlePossibleProtocolLauncherArgs argv=["/opt/forticlient/gui/FortiClient"]
+[2025-05-06 10:19:56.018] [info]  WindowManager handleCreateMainWindow
+[2025-05-06 10:19:56.029] [info]  MAIN MainWindow - createWindow Platform detected: fedora
+[2025-05-06 10:19:56.089] [info]  web-contents-created contents.id=1
+[2025-05-06 10:19:56.101] [info]  Saml - init
+[2025-05-06 10:19:56.101] [info]  Saml - listenSamlLoginRequest
+[2025-05-06 10:19:56.102] [info]  Server init() port number is 42789
+[2025-05-06 10:19:56.577] [info]  Renderer process - Websocket open ws://127.0.0.1:42789/websocket
+[2025-05-06 10:19:56.579] [info]  compliance configDir=/home/gimz/.config/FortiClient/config
+[2025-05-06 10:19:56.585] [info]  MAIN did-finish-load
+[2025-05-06 10:19:56.586] [info]  MAIN ready-to-show
+[2025-05-06 10:19:58.035] [info]  IPC_RENDERER_REQUEST.LOADED
+[2025-05-06 10:19:58.035] [info]  WindowManager handleWindowLoaded
+[2025-05-06 10:19:58.536] [info]  WindowManager handlePossibleProtocolLauncherArgs argv=["/opt/forticlient/gui/FortiClient"]
+[2025-05-06 10:19:58.537] [info]  WindowManager handleCreateMainWindow
+[2025-05-06 10:20:01.075] [info]  WindowManager WindowManager - handleWindowClosed
+[2025-05-06 10:20:01.076] [info]  WindowManager WindowManager - all windows are destroyed. quit the app.
+[2025-05-06 10:57:32.492] [info]  Failed to add libcertd.so: Error: Command failed: /usr/bin/modutil -add "FortiClient ZTNA" -dbdir sql:/home/gimz/.pki/nssdb -libfile /opt/forticlient/libcertd.so -force
+ERROR: Failed to add module "FortiClient ZTNA". Probable cause : "/opt/forticlient/libcertd.so: cannot open shared object file: No such file or directory".
+
+[2025-05-06 10:57:32.804] [info]  Server init() port number is 
+[2025-05-06 10:57:32.805] [info]  Fail to retrieve port number from file.
+[2025-05-06 10:57:33.808] [info]  Server init() port number is 42789
+[2025-05-06 10:57:33.809] [info]  Main process - Websocket open ws://127.0.0.1:42789/websocket
+[2025-05-06 10:57:33.813] [info]  WindowManager handlePossibleProtocolLauncherArgs argv=["/opt/forticlient/gui/FortiClient"]
+[2025-05-06 10:57:33.813] [info]  WindowManager handleCreateMainWindow
+[2025-05-06 10:57:33.823] [info]  MAIN MainWindow - createWindow Platform detected: fedora
+[2025-05-06 10:57:33.863] [info]  web-contents-created contents.id=1
+[2025-05-06 10:57:33.871] [info]  Saml - init
+[2025-05-06 10:57:33.872] [info]  Saml - listenSamlLoginRequest
+[2025-05-06 10:57:33.873] [info]  Server init() port number is 42789
+[2025-05-06 10:57:34.515] [info]  Renderer process - Websocket open ws://127.0.0.1:42789/websocket
+[2025-05-06 10:57:34.518] [info]  compliance configDir=/home/gimz/.config/FortiClient/config
+[2025-05-06 10:57:34.523] [info]  MAIN did-finish-load
+[2025-05-06 10:57:34.524] [info]  MAIN ready-to-show
+[2025-05-06 10:57:35.892] [info]  IPC_RENDERER_REQUEST.LOADED
+[2025-05-06 10:57:35.893] [info]  WindowManager handleWindowLoaded
+[2025-05-06 10:57:36.395] [info]  WindowManager handlePossibleProtocolLauncherArgs argv=["/opt/forticlient/gui/FortiClient"]
+[2025-05-06 10:57:36.395] [info]  WindowManager handleCreateMainWindow
+[2025-05-06 10:57:40.259] [debug] Receive websocket type=FCT_VPN_DISCONNECTED
+[2025-05-06 10:57:41.536] [info]  WindowManager WindowManager - handleWindowClosed
+[2025-05-06 10:57:41.537] [info]  WindowManager WindowManager - all windows are destroyed. quit the app.
+[2025-05-07 16:05:55.599] [info]  Failed to add libcertd.so: Error: Command failed: /usr/bin/modutil -add "FortiClient ZTNA" -dbdir sql:/home/gimz/.pki/nssdb -libfile /opt/forticlient/libcertd.so -force
+ERROR: Failed to add module "FortiClient ZTNA". Probable cause : "/opt/forticlient/libcertd.so: cannot open shared object file: No such file or directory".
+
+[2025-05-07 16:05:55.814] [info]  Server init() port number is 
+[2025-05-07 16:05:55.815] [info]  Fail to retrieve port number from file.
+[2025-05-07 16:05:56.817] [info]  Server init() port number is 34159
+[2025-05-07 16:05:56.817] [info]  Main process - Websocket open ws://127.0.0.1:34159/websocket
+[2025-05-07 16:05:56.821] [info]  WindowManager handlePossibleProtocolLauncherArgs argv=["/opt/forticlient/gui/FortiClient"]
+[2025-05-07 16:05:56.822] [info]  WindowManager handleCreateMainWindow
+[2025-05-07 16:05:56.830] [info]  MAIN MainWindow - createWindow Platform detected: fedora
+[2025-05-07 16:05:56.858] [info]  web-contents-created contents.id=1
+[2025-05-07 16:05:56.866] [info]  Saml - init
+[2025-05-07 16:05:56.867] [info]  Saml - listenSamlLoginRequest
+[2025-05-07 16:05:56.868] [info]  Server init() port number is 34159
+[2025-05-07 16:05:57.413] [info]  Renderer process - Websocket open ws://127.0.0.1:34159/websocket
+[2025-05-07 16:05:57.416] [info]  compliance configDir=/home/gimz/.config/FortiClient/config
+[2025-05-07 16:05:57.422] [info]  MAIN did-finish-load
+[2025-05-07 16:05:57.424] [info]  MAIN ready-to-show
+[2025-05-07 16:05:58.934] [info]  IPC_RENDERER_REQUEST.LOADED
+[2025-05-07 16:05:58.936] [info]  WindowManager handleWindowLoaded
+[2025-05-07 16:05:59.437] [info]  WindowManager handlePossibleProtocolLauncherArgs argv=["/opt/forticlient/gui/FortiClient"]
+[2025-05-07 16:05:59.437] [info]  WindowManager handleCreateMainWindow
+[2025-05-07 16:07:53.262] [debug] Receive websocket type=FCT_VPN_CONNECTING
+[2025-05-07 16:07:53.263] [info]  VpnHandler UNHANDLED {"isTrusted":true}
+[2025-05-07 16:07:53.555] [debug] Receive websocket type=FCT_VPN_INVALID_CERTIFICATE
+[2025-05-07 16:07:53.555] [info]  VpnHandler UNHANDLED {"isTrusted":true}
+[2025-05-07 16:08:00.924] [debug] Receive websocket type=FCT_VPN_CONFIRMATION
+[2025-05-07 16:08:09.738] [debug] Receive websocket type=FCT_VPN_CONNECTED
+[2025-05-07 16:08:09.815] [info]  WindowManager WindowManager - handleWindowClosed
+[2025-05-07 16:08:09.815] [info]  WindowManager WindowManager - all windows are destroyed. quit the app.
+[2025-05-07 23:01:55.553] [info]  Failed to add libcertd.so: Error: Command failed: /usr/bin/modutil -add "FortiClient ZTNA" -dbdir sql:/home/gimz/.pki/nssdb -libfile /opt/forticlient/libcertd.so -force
+ERROR: Failed to add module "FortiClient ZTNA". Probable cause : "/opt/forticlient/libcertd.so: cannot open shared object file: No such file or directory".
+
+[2025-05-07 23:01:56.119] [info]  Server init() port number is 
+[2025-05-07 23:01:56.121] [info]  Fail to retrieve port number from file.
+[2025-05-07 23:01:57.126] [info]  Server init() port number is 34159
+[2025-05-07 23:01:57.128] [info]  Main process - Websocket open ws://127.0.0.1:34159/websocket
+[2025-05-07 23:01:57.136] [info]  WindowManager handlePossibleProtocolLauncherArgs argv=["/opt/forticlient/gui/FortiClient"]
+[2025-05-07 23:01:57.136] [info]  WindowManager handleCreateMainWindow
+[2025-05-07 23:01:57.154] [info]  MAIN MainWindow - createWindow Platform detected: fedora
+[2025-05-07 23:01:57.232] [info]  web-contents-created contents.id=1
+[2025-05-07 23:01:57.252] [info]  Saml - init
+[2025-05-07 23:01:57.256] [info]  Saml - listenSamlLoginRequest
+[2025-05-07 23:01:57.261] [info]  Server init() port number is 34159
+[2025-05-07 23:01:58.020] [info]  Renderer process - Websocket open ws://127.0.0.1:34159/websocket
+[2025-05-07 23:01:58.026] [info]  compliance configDir=/home/gimz/.config/FortiClient/config
+[2025-05-07 23:01:58.034] [info]  MAIN did-finish-load
+[2025-05-07 23:01:58.043] [info]  MAIN ready-to-show
+[2025-05-07 23:02:00.290] [info]  IPC_RENDERER_REQUEST.LOADED
+[2025-05-07 23:02:00.291] [info]  WindowManager handleWindowLoaded
+[2025-05-07 23:02:00.802] [info]  WindowManager handlePossibleProtocolLauncherArgs argv=["/opt/forticlient/gui/FortiClient"]
+[2025-05-07 23:02:00.803] [info]  WindowManager handleCreateMainWindow
+[2025-05-07 23:02:02.459] [info]  WindowManager WindowManager - handleWindowClosed
+[2025-05-07 23:02:02.460] [info]  WindowManager WindowManager - all windows are destroyed. quit the app.
+[2025-05-08 18:29:23.851] [info]  Failed to add libcertd.so: Error: Command failed: /usr/bin/modutil -add "FortiClient ZTNA" -dbdir sql:/home/gimz/.pki/nssdb -libfile /opt/forticlient/libcertd.so -force
+ERROR: Failed to add module "FortiClient ZTNA". Probable cause : "/opt/forticlient/libcertd.so: cannot open shared object file: No such file or directory".
+
+[2025-05-08 18:29:24.047] [info]  Server init() port number is 
+[2025-05-08 18:29:24.048] [info]  Fail to retrieve port number from file.
+[2025-05-08 18:29:25.051] [info]  Server init() port number is 36699
+[2025-05-08 18:29:25.052] [info]  Main process - Websocket open ws://127.0.0.1:36699/websocket
+[2025-05-08 18:29:25.056] [info]  WindowManager handlePossibleProtocolLauncherArgs argv=["/opt/forticlient/gui/FortiClient"]
+[2025-05-08 18:29:25.057] [info]  WindowManager handleCreateMainWindow
+[2025-05-08 18:29:25.067] [info]  MAIN MainWindow - createWindow Platform detected: fedora
+[2025-05-08 18:29:25.116] [info]  web-contents-created contents.id=1
+[2025-05-08 18:29:25.134] [info]  Saml - init
+[2025-05-08 18:29:25.136] [info]  Saml - listenSamlLoginRequest
+[2025-05-08 18:29:25.137] [info]  Server init() port number is 36699
+[2025-05-08 18:29:25.969] [info]  Renderer process - Websocket open ws://127.0.0.1:36699/websocket
+[2025-05-08 18:29:25.972] [info]  compliance configDir=/home/gimz/.config/FortiClient/config
+[2025-05-08 18:29:25.978] [info]  MAIN did-finish-load
+[2025-05-08 18:29:25.979] [info]  MAIN ready-to-show
+[2025-05-08 18:29:27.536] [info]  IPC_RENDERER_REQUEST.LOADED
+[2025-05-08 18:29:27.536] [info]  WindowManager handleWindowLoaded
+[2025-05-08 18:29:28.037] [info]  WindowManager handlePossibleProtocolLauncherArgs argv=["/opt/forticlient/gui/FortiClient"]
+[2025-05-08 18:29:28.038] [info]  WindowManager handleCreateMainWindow
+[2025-05-08 18:30:40.068] [debug] Receive websocket type=FCT_VPN_CONNECTING
+[2025-05-08 18:30:40.068] [info]  VpnHandler UNHANDLED {"isTrusted":true}
+[2025-05-08 18:30:40.315] [debug] Receive websocket type=FCT_VPN_INVALID_CERTIFICATE
+[2025-05-08 18:30:40.315] [info]  VpnHandler UNHANDLED {"isTrusted":true}
+[2025-05-08 18:30:46.336] [debug] Receive websocket type=FCT_VPN_CONFIRMATION
+[2025-05-08 18:30:52.699] [debug] Receive websocket type=FCT_VPN_CONNECTED
+[2025-05-08 18:30:52.787] [info]  WindowManager WindowManager - handleWindowClosed
+[2025-05-08 18:30:52.787] [info]  WindowManager WindowManager - all windows are destroyed. quit the app.
+[2025-05-08 21:27:48.869] [info]  Failed to add libcertd.so: Error: Command failed: /usr/bin/modutil -add "FortiClient ZTNA" -dbdir sql:/home/gimz/.pki/nssdb -libfile /opt/forticlient/libcertd.so -force
+ERROR: Failed to add module "FortiClient ZTNA". Probable cause : "/opt/forticlient/libcertd.so: cannot open shared object file: No such file or directory".
+
+[2025-05-08 21:27:49.150] [info]  Server init() port number is 
+[2025-05-08 21:27:49.151] [info]  Fail to retrieve port number from file.
+[2025-05-08 21:27:50.154] [info]  Server init() port number is 36699
+[2025-05-08 21:27:50.155] [info]  Main process - Websocket open ws://127.0.0.1:36699/websocket
+[2025-05-08 21:27:50.159] [info]  WindowManager handlePossibleProtocolLauncherArgs argv=["/opt/forticlient/gui/FortiClient"]
+[2025-05-08 21:27:50.160] [info]  WindowManager handleCreateMainWindow
+[2025-05-08 21:27:50.170] [info]  MAIN MainWindow - createWindow Platform detected: fedora
+[2025-05-08 21:27:50.202] [info]  web-contents-created contents.id=1
+[2025-05-08 21:27:50.211] [info]  Saml - init
+[2025-05-08 21:27:50.211] [info]  Saml - listenSamlLoginRequest
+[2025-05-08 21:27:50.212] [info]  Server init() port number is 36699
+[2025-05-08 21:27:50.768] [info]  Renderer process - Websocket open ws://127.0.0.1:36699/websocket
+[2025-05-08 21:27:50.770] [info]  compliance configDir=/home/gimz/.config/FortiClient/config
+[2025-05-08 21:27:50.775] [info]  MAIN did-finish-load
+[2025-05-08 21:27:50.777] [info]  MAIN ready-to-show
+[2025-05-08 21:27:52.229] [info]  IPC_RENDERER_REQUEST.LOADED
+[2025-05-08 21:27:52.236] [info]  WindowManager handleWindowLoaded
+[2025-05-08 21:27:52.736] [info]  WindowManager handlePossibleProtocolLauncherArgs argv=["/opt/forticlient/gui/FortiClient"]
+[2025-05-08 21:27:52.737] [info]  WindowManager handleCreateMainWindow
+[2025-05-08 21:27:55.336] [debug] Receive websocket type=FCT_VPN_DISCONNECTED
+[2025-05-08 21:27:57.058] [info]  WindowManager WindowManager - handleWindowClosed
+[2025-05-08 21:27:57.058] [info]  WindowManager WindowManager - all windows are destroyed. quit the app.
+[2025-05-10 11:34:43.979] [info]  Failed to add libcertd.so: Error: Command failed: /usr/bin/modutil -add "FortiClient ZTNA" -dbdir sql:/home/gimz/.pki/nssdb -libfile /opt/forticlient/libcertd.so -force
+ERROR: Failed to add module "FortiClient ZTNA". Probable cause : "/opt/forticlient/libcertd.so: cannot open shared object file: No such file or directory".
+
+[2025-05-10 11:34:44.316] [info]  Server init() port number is 
+[2025-05-10 11:34:44.318] [info]  Fail to retrieve port number from file.
+[2025-05-10 11:34:45.319] [info]  Server init() port number is 33199
+[2025-05-10 11:34:45.320] [info]  Main process - Websocket open ws://127.0.0.1:33199/websocket
+[2025-05-10 11:34:45.326] [info]  WindowManager handlePossibleProtocolLauncherArgs argv=["/opt/forticlient/gui/FortiClient"]
+[2025-05-10 11:34:45.327] [info]  WindowManager handleCreateMainWindow
+[2025-05-10 11:34:45.340] [info]  MAIN MainWindow - createWindow Platform detected: fedora
+[2025-05-10 11:34:45.412] [info]  web-contents-created contents.id=1
+[2025-05-10 11:34:45.421] [info]  Saml - init
+[2025-05-10 11:34:45.422] [info]  Saml - listenSamlLoginRequest
+[2025-05-10 11:34:45.423] [info]  Server init() port number is 33199
+[2025-05-10 11:34:46.073] [info]  Renderer process - Websocket open ws://127.0.0.1:33199/websocket
+[2025-05-10 11:34:46.076] [info]  compliance configDir=/home/gimz/.config/FortiClient/config
+[2025-05-10 11:34:46.082] [info]  MAIN did-finish-load
+[2025-05-10 11:34:46.083] [info]  MAIN ready-to-show
+[2025-05-10 11:34:47.652] [info]  IPC_RENDERER_REQUEST.LOADED
+[2025-05-10 11:34:47.652] [info]  WindowManager handleWindowLoaded
+[2025-05-10 11:34:48.153] [info]  WindowManager handlePossibleProtocolLauncherArgs argv=["/opt/forticlient/gui/FortiClient"]
+[2025-05-10 11:34:48.154] [info]  WindowManager handleCreateMainWindow
+[2025-05-10 11:36:45.020] [debug] Receive websocket type=FCT_VPN_CONNECTING
+[2025-05-10 11:36:45.020] [info]  VpnHandler UNHANDLED {"isTrusted":true}
+[2025-05-10 11:36:45.294] [debug] Receive websocket type=FCT_VPN_INVALID_CERTIFICATE
+[2025-05-10 11:36:45.295] [info]  VpnHandler UNHANDLED {"isTrusted":true}
+[2025-05-10 11:36:51.531] [debug] Receive websocket type=FCT_VPN_CONFIRMATION
+[2025-05-10 11:36:53.374] [debug] Receive websocket type=FCT_VPN_DISCONNECTED
+[2025-05-10 11:36:59.199] [debug] Receive websocket type=FCT_VPN_CONNECTING
+[2025-05-10 11:36:59.199] [info]  VpnHandler UNHANDLED {"isTrusted":true}
+[2025-05-10 11:36:59.543] [debug] Receive websocket type=FCT_VPN_INVALID_CERTIFICATE
+[2025-05-10 11:36:59.543] [info]  VpnHandler UNHANDLED {"isTrusted":true}
+[2025-05-10 11:37:06.061] [debug] Receive websocket type=FCT_VPN_CONFIRMATION
+[2025-05-10 11:37:07.839] [debug] Receive websocket type=FCT_VPN_DISCONNECTED
+[2025-05-10 11:37:15.807] [debug] Receive websocket type=FCT_VPN_CONNECTING
+[2025-05-10 11:37:15.808] [info]  VpnHandler UNHANDLED {"isTrusted":true}
+[2025-05-10 11:37:16.138] [debug] Receive websocket type=FCT_VPN_INVALID_CERTIFICATE
+[2025-05-10 11:37:16.138] [info]  VpnHandler UNHANDLED {"isTrusted":true}
+[2025-05-10 11:37:29.606] [debug] Receive websocket type=FCT_VPN_CANCEL
+[2025-05-10 11:37:29.834] [debug] Receive websocket type=FCT_VPN_DISCONNECTED
+[2025-05-10 11:37:36.748] [debug] Receive websocket type=FCT_VPN_CONNECTING
+[2025-05-10 11:37:36.749] [info]  VpnHandler UNHANDLED {"isTrusted":true}
+[2025-05-10 11:37:37.094] [debug] Receive websocket type=FCT_VPN_INVALID_CERTIFICATE
+[2025-05-10 11:37:37.094] [info]  VpnHandler UNHANDLED {"isTrusted":true}
+[2025-05-10 11:37:56.850] [debug] Receive websocket type=FCT_VPN_CANCEL
+[2025-05-10 11:37:57.077] [debug] Receive websocket type=FCT_VPN_DISCONNECTED
+[2025-05-10 11:38:02.364] [debug] Receive websocket type=FCT_VPN_CONNECTING
+[2025-05-10 11:38:02.364] [info]  VpnHandler UNHANDLED {"isTrusted":true}
+[2025-05-10 11:38:02.701] [debug] Receive websocket type=FCT_VPN_INVALID_CERTIFICATE
+[2025-05-10 11:38:02.701] [info]  VpnHandler UNHANDLED {"isTrusted":true}
+[2025-05-10 11:38:04.343] [debug] Receive websocket type=FCT_VPN_CONFIRMATION
+[2025-05-10 11:38:06.100] [debug] Receive websocket type=FCT_VPN_DISCONNECTED
+[2025-05-10 11:38:08.013] [debug] Receive websocket type=FCT_VPN_CONNECTING
+[2025-05-10 11:38:08.013] [info]  VpnHandler UNHANDLED {"isTrusted":true}
+[2025-05-10 11:38:08.346] [debug] Receive websocket type=FCT_VPN_INVALID_CERTIFICATE
+[2025-05-10 11:38:08.346] [info]  VpnHandler UNHANDLED {"isTrusted":true}
+[2025-05-10 11:38:09.807] [debug] Receive websocket type=FCT_VPN_CONFIRMATION
+[2025-05-10 11:38:11.528] [debug] Receive websocket type=FCT_VPN_DISCONNECTED
+[2025-05-10 11:38:26.124] [debug] Receive websocket type=FCT_VPN_CONNECTING
+[2025-05-10 11:38:26.125] [info]  VpnHandler UNHANDLED {"isTrusted":true}
+[2025-05-10 11:38:26.468] [debug] Receive websocket type=FCT_VPN_INVALID_CERTIFICATE
+[2025-05-10 11:38:26.468] [info]  VpnHandler UNHANDLED {"isTrusted":true}
+[2025-05-10 11:38:35.990] [debug] Receive websocket type=FCT_VPN_CANCEL
+[2025-05-10 11:38:36.212] [debug] Receive websocket type=FCT_VPN_DISCONNECTED
+[2025-05-10 11:38:38.828] [debug] Receive websocket type=FCT_VPN_CONNECTING
+[2025-05-10 11:38:38.828] [info]  VpnHandler UNHANDLED {"isTrusted":true}
+[2025-05-10 11:38:39.171] [debug] Receive websocket type=FCT_VPN_INVALID_CERTIFICATE
+[2025-05-10 11:38:39.172] [info]  VpnHandler UNHANDLED {"isTrusted":true}
+[2025-05-10 11:38:50.536] [debug] Receive websocket type=FCT_VPN_CONFIRMATION
+[2025-05-10 11:38:52.251] [debug] Receive websocket type=FCT_VPN_DISCONNECTED
+[2025-05-10 11:38:55.358] [debug] Receive websocket type=FCT_VPN_CONNECTING
+[2025-05-10 11:38:55.359] [info]  VpnHandler UNHANDLED {"isTrusted":true}
+[2025-05-10 11:38:55.686] [debug] Receive websocket type=FCT_VPN_INVALID_CERTIFICATE
+[2025-05-10 11:38:55.687] [info]  VpnHandler UNHANDLED {"isTrusted":true}
+[2025-05-10 11:39:02.723] [debug] Receive websocket type=FCT_VPN_CONFIRMATION
+[2025-05-10 11:39:04.438] [debug] Receive websocket type=FCT_VPN_DISCONNECTED
+[2025-05-10 11:39:11.489] [debug] Receive websocket type=FCT_VPN_CONNECTING
+[2025-05-10 11:39:11.489] [info]  VpnHandler UNHANDLED {"isTrusted":true}
+[2025-05-10 11:39:11.810] [debug] Receive websocket type=FCT_VPN_INVALID_CERTIFICATE
+[2025-05-10 11:39:11.810] [info]  VpnHandler UNHANDLED {"isTrusted":true}
+[2025-05-10 11:39:24.278] [debug] Receive websocket type=FCT_VPN_CONFIRMATION
+[2025-05-10 11:39:30.421] [debug] Receive websocket type=FCT_VPN_CONNECTED
+[2025-05-10 11:39:30.543] [info]  WindowManager WindowManager - handleWindowClosed
+[2025-05-10 11:39:30.544] [info]  WindowManager WindowManager - all windows are destroyed. quit the app.
+[2025-05-10 14:53:51.083] [info]  Failed to add libcertd.so: Error: Command failed: /usr/bin/modutil -add "FortiClient ZTNA" -dbdir sql:/home/gimz/.pki/nssdb -libfile /opt/forticlient/libcertd.so -force
+ERROR: Failed to add module "FortiClient ZTNA". Probable cause : "/opt/forticlient/libcertd.so: cannot open shared object file: No such file or directory".
+
+[2025-05-10 14:53:51.312] [info]  Server init() port number is 
+[2025-05-10 14:53:51.314] [info]  Fail to retrieve port number from file.
+[2025-05-10 14:53:52.315] [info]  Server init() port number is 33199
+[2025-05-10 14:53:52.316] [info]  Main process - Websocket open ws://127.0.0.1:33199/websocket
+[2025-05-10 14:53:52.321] [info]  WindowManager handlePossibleProtocolLauncherArgs argv=["/opt/forticlient/gui/FortiClient"]
+[2025-05-10 14:53:52.321] [info]  WindowManager handleCreateMainWindow
+[2025-05-10 14:53:52.332] [info]  MAIN MainWindow - createWindow Platform detected: fedora
+[2025-05-10 14:53:52.371] [info]  web-contents-created contents.id=1
+[2025-05-10 14:53:52.381] [info]  Saml - init
+[2025-05-10 14:53:52.382] [info]  Saml - listenSamlLoginRequest
+[2025-05-10 14:53:52.383] [info]  Server init() port number is 33199
+[2025-05-10 14:53:52.910] [info]  Renderer process - Websocket open ws://127.0.0.1:33199/websocket
+[2025-05-10 14:53:52.913] [info]  compliance configDir=/home/gimz/.config/FortiClient/config
+[2025-05-10 14:53:52.919] [info]  MAIN did-finish-load
+[2025-05-10 14:53:52.919] [info]  MAIN ready-to-show
+[2025-05-10 14:53:54.478] [info]  IPC_RENDERER_REQUEST.LOADED
+[2025-05-10 14:53:54.481] [info]  WindowManager handleWindowLoaded
+[2025-05-10 14:53:54.982] [info]  WindowManager handlePossibleProtocolLauncherArgs argv=["/opt/forticlient/gui/FortiClient"]
+[2025-05-10 14:53:54.983] [info]  WindowManager handleCreateMainWindow
+[2025-05-10 14:53:57.371] [info]  WindowManager WindowManager - handleWindowClosed
+[2025-05-10 14:53:57.371] [info]  WindowManager WindowManager - all windows are destroyed. quit the app.
+[2025-05-15 08:47:36.633] [info]  Failed to add libcertd.so: Error: Command failed: /usr/bin/modutil -add "FortiClient ZTNA" -dbdir sql:/home/gimz/.pki/nssdb -libfile /opt/forticlient/libcertd.so -force
+ERROR: Failed to add module "FortiClient ZTNA". Probable cause : "/opt/forticlient/libcertd.so: cannot open shared object file: No such file or directory".
+
+[2025-05-15 08:47:36.814] [info]  Server init() port number is 
+[2025-05-15 08:47:36.816] [info]  Fail to retrieve port number from file.
+[2025-05-15 08:47:37.818] [info]  Server init() port number is 41913
+[2025-05-15 08:47:37.819] [info]  Main process - Websocket open ws://127.0.0.1:41913/websocket
+[2025-05-15 08:47:37.823] [info]  WindowManager handlePossibleProtocolLauncherArgs argv=["/opt/forticlient/gui/FortiClient"]
+[2025-05-15 08:47:37.824] [info]  WindowManager handleCreateMainWindow
+[2025-05-15 08:47:37.833] [info]  MAIN MainWindow - createWindow Platform detected: fedora
+[2025-05-15 08:47:37.940] [info]  web-contents-created contents.id=1
+[2025-05-15 08:47:37.951] [info]  Saml - init
+[2025-05-15 08:47:37.951] [info]  Saml - listenSamlLoginRequest
+[2025-05-15 08:47:37.952] [info]  Server init() port number is 41913
+[2025-05-15 08:47:38.559] [info]  Renderer process - Websocket open ws://127.0.0.1:41913/websocket
+[2025-05-15 08:47:38.562] [info]  compliance configDir=/home/gimz/.config/FortiClient/config
+[2025-05-15 08:47:38.568] [info]  MAIN did-finish-load
+[2025-05-15 08:47:38.569] [info]  MAIN ready-to-show
+[2025-05-15 08:47:40.638] [info]  IPC_RENDERER_REQUEST.LOADED
+[2025-05-15 08:47:40.639] [info]  WindowManager handleWindowLoaded
+[2025-05-15 08:47:41.140] [info]  WindowManager handlePossibleProtocolLauncherArgs argv=["/opt/forticlient/gui/FortiClient"]
+[2025-05-15 08:47:41.141] [info]  WindowManager handleCreateMainWindow
+[2025-05-15 08:48:35.073] [debug] Receive websocket type=FCT_VPN_CONNECTING
+[2025-05-15 08:48:35.074] [info]  VpnHandler UNHANDLED {"isTrusted":true}
+[2025-05-15 08:48:35.361] [debug] Receive websocket type=FCT_VPN_INVALID_CERTIFICATE
+[2025-05-15 08:48:35.362] [info]  VpnHandler UNHANDLED {"isTrusted":true}
+[2025-05-15 08:48:38.359] [debug] Receive websocket type=FCT_VPN_CONFIRMATION
+[2025-05-15 08:48:43.787] [debug] Receive websocket type=FCT_VPN_CONNECTED
+[2025-05-15 08:48:43.867] [info]  WindowManager WindowManager - handleWindowClosed
+[2025-05-15 08:48:43.867] [info]  WindowManager WindowManager - all windows are destroyed. quit the app.
+[2025-05-15 09:42:25.909] [info]  Failed to add libcertd.so: Error: Command failed: /usr/bin/modutil -add "FortiClient ZTNA" -dbdir sql:/home/gimz/.pki/nssdb -libfile /opt/forticlient/libcertd.so -force
+ERROR: Failed to add module "FortiClient ZTNA". Probable cause : "/opt/forticlient/libcertd.so: cannot open shared object file: No such file or directory".
+
+[2025-05-15 09:42:26.100] [info]  Server init() port number is 
+[2025-05-15 09:42:26.102] [info]  Fail to retrieve port number from file.
+[2025-05-15 09:42:27.105] [info]  Server init() port number is 41913
+[2025-05-15 09:42:27.106] [info]  Main process - Websocket open ws://127.0.0.1:41913/websocket
+[2025-05-15 09:42:27.111] [info]  WindowManager handlePossibleProtocolLauncherArgs argv=["/opt/forticlient/gui/FortiClient"]
+[2025-05-15 09:42:27.112] [info]  WindowManager handleCreateMainWindow
+[2025-05-15 09:42:27.121] [info]  MAIN MainWindow - createWindow Platform detected: fedora
+[2025-05-15 09:42:27.178] [info]  web-contents-created contents.id=1
+[2025-05-15 09:42:27.187] [info]  Saml - init
+[2025-05-15 09:42:27.188] [info]  Saml - listenSamlLoginRequest
+[2025-05-15 09:42:27.189] [info]  Server init() port number is 41913
+[2025-05-15 09:42:27.706] [info]  Renderer process - Websocket open ws://127.0.0.1:41913/websocket
+[2025-05-15 09:42:27.708] [info]  compliance configDir=/home/gimz/.config/FortiClient/config
+[2025-05-15 09:42:27.714] [info]  MAIN did-finish-load
+[2025-05-15 09:42:27.716] [info]  MAIN ready-to-show
+[2025-05-15 09:42:29.064] [info]  IPC_RENDERER_REQUEST.LOADED
+[2025-05-15 09:42:29.065] [info]  WindowManager handleWindowLoaded
+[2025-05-15 09:42:29.566] [info]  WindowManager handlePossibleProtocolLauncherArgs argv=["/opt/forticlient/gui/FortiClient"]
+[2025-05-15 09:42:29.566] [info]  WindowManager handleCreateMainWindow
+[2025-05-15 09:42:31.092] [info]  WindowManager WindowManager - handleWindowClosed
+[2025-05-15 09:42:31.092] [info]  WindowManager WindowManager - all windows are destroyed. quit the app.
